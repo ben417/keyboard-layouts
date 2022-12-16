@@ -3,11 +3,11 @@
 <plist version="1.0">
 <dict>
 	<key>CFBundleIdentifier</key>
-	<string>org.sil.ukelele.keyboardlayout.</string>
+	<string>org.sil.ukelele.keyboardlayout.karen-keyboard-layouts</string>
 	<key>CFBundleName</key>
-	<string></string>
+	<string>Karen Keyboard Layouts</string>
 	<key>CFBundleVersion</key>
-	<string></string>
+	<string>1.0</string>
 	<key>KLInfo_Sgaw Karen</key>
 	<dict>
 		<key>TICapsLockLanguageSwitchCapable</key>
@@ -15,9 +15,20 @@
 		<key>TISIconIsTemplate</key>
 		<true/>
 		<key>TISInputSourceID</key>
-		<string>org.sil.ukelele.keyboardlayout..sgawkaren</string>
+		<string>org.sil.ukelele.keyboardlayout.karen-keyboard-layouts.sgawkaren</string>
 		<key>TISIntendedLanguage</key>
 		<string>ksw</string>
+	</dict>
+	<key>KLInfo_Western Pwo Karen</key>
+	<dict>
+		<key>TICapsLockLanguageSwitchCapable</key>
+		<true/>
+		<key>TISIconIsTemplate</key>
+		<false/>
+		<key>TISInputSourceID</key>
+		<string>org.sil.ukelele.keyboardlayout.karen-keyboard-layouts.westernpwokaren</string>
+		<key>TISIntendedLanguage</key>
+		<string>pwo</string>
 	</dict>
 </dict>
 </plist>
