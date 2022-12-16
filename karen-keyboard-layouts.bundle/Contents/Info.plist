@@ -19,6 +19,17 @@
 		<key>TISIntendedLanguage</key>
 		<string>ksw</string>
 	</dict>
+	<key>KLInfo_Sgaw Karen (Like KNU)</key>
+	<dict>
+		<key>TICapsLockLanguageSwitchCapable</key>
+		<true/>
+		<key>TISIconIsTemplate</key>
+		<false/>
+		<key>TISInputSourceID</key>
+		<string>org.sil.ukelele.keyboardlayout.karen-keyboard-layouts.sgawkaren(likeknu)</string>
+		<key>TISIntendedLanguage</key>
+		<string>ksw</string>
+	</dict>
 	<key>KLInfo_Sgaw Karen Mnemonic</key>
 	<dict>
 		<key>TICapsLockLanguageSwitchCapable</key>
